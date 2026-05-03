@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "com.gator-dragon-games.jigglephysics": {
-      "version": "*"
+      "version": "^16.0.0"
     },
     "com.basis.sdk": {
-      "version": "*"
+      "version": "^0.0.1"
     }
   }
 }
